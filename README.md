@@ -14,6 +14,7 @@ Title : 맥북의 터치패드를 조금 더 유용하게 사용할 수 있게 �
 예를들어 
 - 세개의 손가락으로 터치패드의 상단을 터치 (3 Finger Tap Top) : 윈도우 최대화 (Maximize Window)
 - 세개의 손가락으로 터치패드의 하단을 터피 (3 Finger Tap Bottom) : 윈도우 최소화 (Minimize Winodw Below Cursor)
+
 등과 같이 나만의 동작을 설정할 수 있다.
 유료이지만 충분히 돈을 지불할만한 가치가 있는 앱!
 (물론 나만의 맥북이 있을 때 유용....)
