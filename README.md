@@ -22,3 +22,5 @@ Title, 유/무료 여부, 상세한 설명, 구매링크, 그리고 추가적인
 (물론 나만의 맥북이 있을 때 유용....)
 
 >**구매/다운로드 링크** : [다운로드 링크](https://www.boastr.net/)
+
+>**아이콘** : ![BTT](https://www.macupdate.com/images/icons256/32953.png)
