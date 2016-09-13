@@ -19,6 +19,8 @@
 유료이지만 충분히 돈을 지불할만한 가치가 있는 앱!
 (물론 나만의 맥북이 있을 때 유용....)
 
+>![BTT](./img/BetterTouchTool.png)
+
 >**구매/다운로드 링크** : [다운로드 링크](https://www.boastr.net/)
 
 >**아이콘** : ![BTT](https://www.macupdate.com/images/icons256/32953.png)
